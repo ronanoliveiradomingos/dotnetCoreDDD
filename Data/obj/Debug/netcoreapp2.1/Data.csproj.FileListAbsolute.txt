@@ -1,0 +1,14 @@
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Data.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Domain.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Data\obj\Debug\netcoreapp2.1\Data.pdb

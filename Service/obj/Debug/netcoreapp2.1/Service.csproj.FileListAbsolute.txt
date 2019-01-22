@@ -1,0 +1,16 @@
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\CrossCutting.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Data.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Domain.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\CrossCutting.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Data.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Service\obj\Debug\netcoreapp2.1\Service.pdb

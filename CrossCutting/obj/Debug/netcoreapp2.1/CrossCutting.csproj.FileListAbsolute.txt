@@ -1,0 +1,9 @@
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.deps.json
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.dll
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.pdb
