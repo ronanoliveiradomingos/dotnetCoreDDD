@@ -1,20 +1,23 @@
 ﻿using Domain.Entities;
 using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Domain.Interfaces
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        void Insert(T obj);
+        void Insert(T entity);
 
-        void Update(T obj);
+        void Update(T entity);
 
-        void Delete(int id);
+        void Delete(T entity);
 
-        T Select(int id);
+        Task<IEnumerable<T>> Select(Expression<Func<T, bool>> expression);
 
-        IList<T> SelectAll();
+        Task<IEnumerable<T>> SelectAll();
+
     }
 }

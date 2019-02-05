@@ -14,16 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 
 Utils para desenvolvimento:<br>
 
-[Mocky](https://www.mocky.io/)<br>
+[Dashboard UI Kit 3.0](https://janlosert.com/store/dashboard-ui-kit-3.html?urm_source=roman.medium#Header)<br>
 
-[Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)<br>
+[Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)<br/>
 
-[React Materialize](https://react-materialize.github.io/#/)<br>
+[Three approaches to Domain-Driven Design with Entity Framework Core](https://www.thereformedprogrammer.net/three-approaches-to-domain-driven-design-with-entity-framework-core/)<br/>
 
-[Firebase - Google](https://firebase.google.com/?hl=pt-br)<br>
+[Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)<br/>
 
-[Semantic UI React](https://react.semantic-ui.com/) <br>
-
-[Creating Multistep Forms With React and Semantic UI](https://scotch.io/tutorials/creating-multistep-forms-with-react-and-semantic-ui)<br>
-
-[Semantic UI React - Responsive Navbar](https://codesandbox.io/s/325y47xk36)<br>
+[Prevenindo ataques CSRF no ASP.NET Core](https://www.eduardopires.net.br/2018/02/prevenindo-ataques-csrf-no-asp-net-core/)

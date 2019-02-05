@@ -1,9 +1,9 @@
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\bin\Debug\netcoreapp2.1\Domain.dll
-C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.dll
 C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\git-ronanoliveiradomingos\dotnetCoreDDD\dotnetCoreDDD\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
