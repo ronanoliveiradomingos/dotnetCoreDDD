@@ -1,16 +1,6 @@
-[link publicado](https://ronanoliveiradomingos-react-auth.netlify.com/) 
-
-
 Artigos usados no exemplo: <br>
 
 [Uma nova arquitetura em .Net Core baseada em DDD](https://medium.com/@alexalves_85598/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686)<br>
-
-No diretório do projeto, você pode executar:<br>
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.<br>
-Open [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.. <br>
 
 Utils para desenvolvimento:<br>
 
